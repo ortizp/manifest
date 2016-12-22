@@ -7,7 +7,7 @@
   
   <!-- Device Trees -->
   <project path="device/samsung/universal8890" name="android_device_samsung_universal8890" remote="8890dev" />
-  <project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="8890dev" />
+  <!-- project path="device/samsung/hero-common" name="android_device_samsung_hero-common" remote="8890dev" / -->
   <project path="device/samsung/heroltexx" name="android_device_samsung_heroltexx" remote="8890dev" />
   <project path="device/samsung/hero2ltexx" name="android_device_samsung_hero2ltexx" remote="8890dev" />
 
